@@ -34,7 +34,7 @@ The API is deployed, making it accessible for external applications to send imag
 
 ## Testing of the Deployed API using Postman
 
-Postman can be used to test the deployed API by sending a POST request with a base64-encoded image in the request body. The API response includes information about the detected objects and their confidence levels.
+Postman can be used to test the deployed API by sending a POST request with a binary image in the request body. The API response includes information about the detected objects and their confidence levels.
 
 ## ScreenShots
 
